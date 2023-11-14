@@ -4,7 +4,9 @@
 
 ###### interests
 
-- computer vision and part recognition
+- computer vision
+
+- computer graphics
 
 ###### emails
 
